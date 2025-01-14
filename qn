@@ -1,31 +1,39 @@
-{"p":[{
-statement:"How many cells are created when two cells meet ?",
-options:[{
-ans:"2",
-status:"incorrect"
+[{
+"statement":"How many cells are created when two cells meet ?",
+"options":[{
+"ans":"2",
+"status":"incorrect"
 },{
-ans:"3",
-status:"correct"
-},{ans:"4",
-status:"incorrect"},{ans:"none",
-status:"incorrect"}]
+"ans":"3",
+"status":"correct"
+},{
+"ans:"4",
+"status":"incorrect"},{
+"ans":"none",
+"status":"incorrect"}]
 
-},{statement:"How many cells are created when two cells meet ?",
-options:[{
-ans:"2",
-status:"incorrect"
+},{"statement":"How many cells are created when two cells meet ?",
+"options":[{
+"ans":"2",
+"status":"incorrect"
 },{
-ans:"3",
-status:"correct"
-},{ans:"4",
-status:"incorrect"},{ans:"none",
-status:"incorrect"}]},{statement:"How many cells are created when two cells meet ?",
-options:[{
-ans:"2",
-status:"incorrect"
+"ans":"3",
+"status":"correct"
 },{
-ans:"3",
-status:"correct"
-},{ans:"4",
-status:"incorrect"},{ans:"none",
-status:"incorrect"}]}]}
+"ans:"4",
+"status":"incorrect"},{
+"ans":"none",
+"status":"incorrect"}]
+},{"statement":"How many cells are created when two cells meet ?",
+"options":[{
+"ans":"2",
+"status":"incorrect"
+},{
+"ans":"3",
+"status":"correct"
+},{
+"ans:"4",
+"status":"incorrect"},{
+"ans":"none",
+"status":"incorrect"}]
+}]
